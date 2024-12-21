@@ -28,9 +28,7 @@ global.sign = "〆"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "MONIEPOINT"
 
-global.bankname = " 
-
-SOMTOCHUKWU OBINNA UMEASIEGBU"
+global.bankname = "SOMTOCHUKWU OBINNA UMEASIEGBU"
 
 global.accnumber = "8100366428"
 
