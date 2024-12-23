@@ -1,8 +1,8 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "2349072892310"
+global.pairingNumber = "2347066226618"
 
-global.botNumber = ["2349072892310"]
+global.botNumber = ["2347066226618"]
 
 global.anticall = false
 
@@ -37,16 +37,16 @@ global.sessionName = "session"
 global.pairingCode = true 
 global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
-global.newsletterName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
-global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽🐦‍🔥"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
-global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
+global.newsletterName = "BLASTUS 𝐕𝟒"
+global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 BLASTUS🐦‍🔥"
+global.ownerName = "BLASTUS"
+global.syt = 'https://whatsapp.com/channel/0029VatNCBZJf05ZCahFFe0d'
+global.sgc = 'https://whatsapp.com/channel/0029VatNCBZJf05ZCahFFe0d'
+global.sig = 'https://whatsapp.com/channel/0029VatNCBZJf05ZCahFFe0d'
+global.web = 'https://whatsapp.com/channel/0029VatNCBZJf05ZCahFFe0d'
 //setbot
-global.botName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒" 
-global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
+global.botName = "𝐁𝐋ASTUS 𝐕𝟒" 
+global.wm = "𝐁𝐋ASTUS 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
@@ -66,8 +66,8 @@ global.On = "On"
 global.Off ="Off"
 global.autoblockcmd = false
 global.fake1 ="Bot WhatsApp"
-global.packName = `𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍`
-global.authorName = "BLUE DEMON"
+global.packName = `𝐁𝐋ASTUS`
+global.authorName = "BLASTUS"
 global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
